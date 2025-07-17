@@ -1,4 +1,4 @@
-# 👤 bwwwhite
+# 🌈 Mr. `bwwwhite`
 
 Welcome to the official GitHub profile of **bwwwhite**!
 
