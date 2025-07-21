@@ -1,10 +1,10 @@
-# 🌈 Mr. `bwwwhite`
+# 🌈
 
-Welcome to the official GitHub profile of **bwwwhite**!
+Welcome to the official GitHub profile of wegentleman!
 
 ## About Me
 
-Hi! I'm bwwwhite, a developer exploring new horizons in software engineering, open source, and creative coding. This persona represents my latest journey in tech, building upon the experiences and projects from my other GitHub accounts:
+Hi! I'm wegentleman, a developer exploring new horizons in software engineering, open source, and creative coding. This persona represents my latest journey in tech, building upon the experiences and projects from my other GitHub accounts:
 
 - [sudoHub](https://github.com/sudoHub): My home for infrastructure, cloud, and DevOps solutions. Here, I contributed to automation scripts, CI/CD pipelines, and cloud-native architectures.
 - [isbrandonw](https://github.com/isbrandonw): My sandbox for web development, JavaScript frameworks, and experimental tools. This account showcases front-end and full-stack projects, learning resources, and community contributions.
